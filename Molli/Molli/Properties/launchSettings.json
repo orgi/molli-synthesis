@@ -2,13 +2,6 @@
   "profiles": {
     "Molli": {
       "commandName": "Project"
-    },
-    "Profile 1": {
-      "commandName": "Executable"
-    },
-    "Profile 2": {
-      "commandName": "Project",
-      "commandLineArgs": "run-patcher --DataFolderPath \"C:\\Program Files (x86)\\GOG Galaxy\\Games\\Skyrim Anniversary Edition\\Data\"\r\n--LoadOrderFilePath \"C:\\Users\\joerg\\AppData\\Local\\Skyrim Special Edition\"\r\n--GameRelease SkyrimSE"
     }
   }
 }
