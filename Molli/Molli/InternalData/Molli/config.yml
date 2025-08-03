@@ -1,0 +1,104 @@
+Leveled Lists:
+  # ArmorCompanionsSet: 0010FDE9
+  # ArmorImperialHeavySet: 00013F2A
+  # ArmorImperialHeavySetNoHelmet: 0001C5DF
+  # ArmorImperialLightSet: 0001D249
+  # ArmorImperialStuddedSet: 0001D24A
+  # ArmorIronSetNoHelmet: 00017F20
+  # ArmorSteelNoHelmetSet: 00028B45
+
+  HeavyArmorBoots: 0001673A
+  HeavyArmorCuirass: 000166F8
+  HeavyArmorGauntlets: 0001673D
+  HeavyArmorHelmet: 00016740
+  
+  LightArmorBoots: 0001673B
+  LightArmorCuirass: 00016705
+  LightArmorGauntlets: 0001673E
+  LightArmorHelmet: 00016741
+  
+  HeavyArmorAllSpecial: 001031CC
+  LightArmorAllSpecial: 001031CD
+
+  EnchHeavyArmorAll: 000B555F
+  EnchHeavyArmorAllNoDragon: 000FDA19
+  EnchHeavyArmorAllSpecial: 001031C0
+  EnchHeavyArmorBoots: 0007A837
+  EnchHeavyArmorCuirass: 000B5090
+  EnchHeavyArmorGauntlets: 000B5091
+  EnchHeavyArmorHelmet: 000B5092
+
+  EnchLightArmorAll: 000B5560
+  EnchLightArmorAllNoDragon: 000FDA18
+  EnchLightArmorAllSpecial: 001031C1
+  EnchLightArmorBoots: 0007A836
+  EnchLightArmorCuirass: 000B4221
+  EnchLightArmorGauntlets: 000B4223
+  EnchLightArmorHelmet: 000B4222
+  EnchLightArmorBootsSpecial: 001031BB
+  EnchLightArmorCuirassSpecial: 001031BC
+  EnchLightArmorGauntletsSpecial: 001031BD
+  EnchLightArmorHelmetSpecial: 001031BE
+  EnchLightArmorBootsNoDragon: 000FDA13
+  EnchLightArmorCuirassNoDragon: 000FDA16
+  EnchLightArmorGauntletsNoDragon: 000FDA14
+  EnchLightArmorHelmetNoDragon: 000FDA15
+
+  EnchCircletAlteration: 00107344
+  EnchCircletConjuration: 00107345
+  EnchCircletDestruction: 00107346
+  EnchCircletEnchanting: 00107347
+  EnchCircletIllusion: 00107348
+  EnchCircletMagicka: 00107349
+  EnchCircletMarksman: 0010734A
+  EnchCircletRestoration: 0010734B
+
+  EnchNecklaceBlock: 0010DF60
+  EnchNecklaceHealRate: 0010DF61
+  EnchNecklaceHealth: 00101068
+  EnchNecklaceHeavyArmor: 0010DF62
+  EnchNecklaceLightArmor: 0010DF63
+  EnchNecklaceLockpicking: 0010DF64
+  EnchNecklaceMagicka: 0010DF65
+
+  NecromancerRobesAlteration: 00105243
+  NecromancerRobesConjuration: 00105244
+  NecromancerRobesDestruction: 00105245
+  # NecromancerRobesEnchanting: 00105246
+  NecromancerRobesIllusion: 00105247
+  NecromancerRobesRegen: 00105249
+  NecromancerRobesRestoration: 00105248  
+
+  RobesCollegeAlteration: 00016E1E
+  RobesCollegeConjuration: 00016E1F
+  RobesCollegeDestruction: 00016E1D
+  RobesCollegeIllusion: 00016E20
+  RobesCollegeRestoration: 00016E21
+  RobesCollegeRegen: 00016E22
+  RobesCollegeMagickaHood: 00016E23
+
+  DLC1SublistEnchVampireRobesDestruction: 02015CC9
+  DLC1SublistEnchVampireRobesConjuration: 02015CCA
+  DLC1SublistEnchVampireRobesStandard: 02015CCB
+  DLC1ArmorVampireBoots: 0200B5DE
+
+  RobesAlteration: 0010F9AF
+  RobesConjuration: 0010F9B0
+  RobesDestruction: 0010F9B1
+  RobesIllusion: 0010F9B2
+  RobesRestoration: 0010F9B3
+
+  SoldierImperialArmorSet01: 00017134
+  SoldierImperialArmorSet02: 00017139
+  SoldierImperialArmorSet03: 0001713A
+
+  WarlockRobes: 00105EF9
+  WarlockRobesAlteration: 00105EEB
+  WarlockRobesConjuration: 00105EEC
+  WarlockRobesDestruction: 00105EED
+  # WarlockRobesEnchanting: 00105EEE
+  WarlockRobesIllusion: 00105EF7
+  WarlockRobesRegen: 00105EEF
+  WarlockRobesRestoration: 00105EF5
+
+  VendorEorlundSkyforgeSteelSet: 0010FDEB
